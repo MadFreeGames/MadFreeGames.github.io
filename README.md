@@ -1,1 +1,2 @@
-# MadFreeGames.github.io
+# MadFreeGames
+we Make Hit Games
