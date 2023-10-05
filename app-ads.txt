@@ -24,6 +24,9 @@ facebook.com, 1601170383626117, RESELLER, c3e20eee3f780d68
 #Facebook Ownership Confirmation
                         facebook.com, 863798871849442, RESELLER, c3e20eee3f780d68
 
+#Facebook Ownership Confirmation
+                        facebook.com, 699900235364686, RESELLER, c3e20eee3f780d68
+
 
 
 
